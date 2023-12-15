@@ -69,11 +69,11 @@ local setup = {
 
 local mappings = {
   -- TEST
-  f = {
-    name = "TEST",
-    a = "a test",
-    b = "b test",
-  },
+  --f = {
+    --name = "TEST",
+    --a = "a test",
+    --b = "b test",
+  --},
 }
 
 which_key.setup(setup)
